@@ -18,4 +18,4 @@ The game is also known as The Jungle Game, Animal Chess, Beast Chess, Children's
 
 Enjoy it.
 
-By TATI . 16-AUG-22
+By <b>TATI</b> . 16-AUG-22
