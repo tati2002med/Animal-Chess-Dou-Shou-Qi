@@ -27,7 +27,7 @@ public class Main extends JFrame {
 	public Main() {
 
 		setTitle("Dou Shou Qi");
-		setSize(490, 667);
+		setSize(491, 668);
 		setIconImage(Toolkit.getDefaultToolkit().createImage(getClass().getResource("Icon.png")));
 
 		// Make the game appears in the middle of the screen
